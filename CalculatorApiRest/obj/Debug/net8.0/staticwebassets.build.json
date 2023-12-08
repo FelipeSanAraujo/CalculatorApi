@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bmp32MHbI5hEuBUdv13WIREZn93Y7VILOvfcj2InTzg=",
+  "Source": "CalculatorApiRest",
+  "BasePath": "_content/CalculatorApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

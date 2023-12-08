@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorApiRest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7fd9204dcdb3455ab5467d50cb11c795c85f7f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatorApiRest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatorApiRest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
